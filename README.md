@@ -7,5 +7,6 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/matthewlu070111/ipt
 CNA</br>
 RadioM2O</br>
 上海金山电视台</br>
+如东1台</br>
 延边1台</br>
 延边2台
