@@ -7,6 +7,9 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/matthewlu070111/ipt
 CNA</br>
 RadioM2O</br>
 上海金山电视台</br>
+上虞文化影视</br>
+上虞新商都</br>
+上虞新闻综合</br>
 如东1台</br>
 嵊州新闻综合</br>
 延边1台</br>
